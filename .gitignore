@@ -1,0 +1,17 @@
+__pycache__/
+*.py[cod]
+.env
+.venv/
+venv/
+env/
+
+frontend/node_modules/
+
+uploads/*
+!uploads/.keep
+storage/*
+!storage/.keep
+static/*
+!static/.keep
+
+.DS_Store
